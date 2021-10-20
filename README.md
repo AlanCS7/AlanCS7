@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📝 Desenvolvedor Full Stack Java Junior
-- 🌱 Pronouns: ele/dele
+- 🌱 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/AlanCS7">
