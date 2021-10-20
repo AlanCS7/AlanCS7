@@ -1,4 +1,4 @@
-### 👋 Olá, Eu sou o Alan Carlos
+## 👋 Olá, Eu sou o Alan Carlos
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📝 Desenvolvedor Full Stack Java Junior
