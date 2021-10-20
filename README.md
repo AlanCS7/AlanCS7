@@ -1,7 +1,7 @@
 ### 👋 Olá, Eu sou o Alan Carlos
 
-- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas
-- 📝 Desenvolvedor Java Full Stack Junior
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 📝 Desenvolvedor Full Stack Java Junior
 - 🌱 Pronouns: ele/dele
 
 <div align="center">
