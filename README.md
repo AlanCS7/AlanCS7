@@ -1,8 +1,8 @@
-## 👋 Eaee Devs, sou o Alan Carlos
+## 👋 Hi Devs, I'm Alan Carlos
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 📝 Desenvolvedor Full Stack Java Junior
-- 🌱 Pronouns: He/Ele
+- 🎓 Graduated in Systems Analysis and Development
+- 📝 I'm a Developer Analyst
+- 🌱 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/AlanCS7">
