@@ -1,7 +1,7 @@
 ## 👋 Hi Devs, I'm Alan Silva
 
 - 🎓 Graduated in Systems Analysis and Development
-- 📝 I'm a Developer Analyst
+- 📝 I'm a Java Developer
 - 🌱 Pronouns: He/Him
 
 <div align="center">
